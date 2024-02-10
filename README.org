@@ -1,0 +1,9 @@
+* lem-mailbox
+
+Mailbox ANSI CL implementation from SBCL
+
+|---------+----------------------------------------------------|
+| source  | git:https://github.com/lem-project/lem-mailbox.git |
+| commit  | 12d6295                                            |
+| systems | lem-mailbox                                        |
+|---------+----------------------------------------------------|
